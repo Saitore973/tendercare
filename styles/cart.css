@@ -345,7 +345,46 @@ section
 /*********************************
 3.2 Header - Main Navigation
 *********************************/
-
+.fom{
+	display: block;
+	margin: 0 auto;
+	align-items: center;
+	
+   
+  }
+  
+  .extend{
+	padding: 25px;
+	width:1000px;
+	background-color: rgb(236, 227, 215);
+	border-radius: 20px;
+	border: none;
+  
+  }
+  
+  .edit{
+	font-size: 20px;
+  }
+  
+  button{
+	padding: 15px 35px;
+	font-size: 20px;
+	border-radius: 20px;
+	border: none;
+	background-color: bisque;
+  }
+  
+  .btn{
+	
+	padding: 15px 35px;
+	font-size: 20px;
+	border-radius: 20px;
+	border: none;
+	
+  }
+  .btn:hover{
+	background-color: rgb(240, 232, 232);
+  }
 .main_nav
 {
 	padding-left: 252px;
